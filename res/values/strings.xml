@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Actividad3RadioGroupRadioButton</string>
+    <string name="action_settings">Settings</string>
+    <string name="op1">Operando 1:</string>
+    <string name="op2">Operando 2:</string>
+    <string name="sum">Suma</string>
+    <string name="rest">Resta</string>
+    <string name="Resul">Resultado</string>
+</resources>
